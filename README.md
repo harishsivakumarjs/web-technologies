@@ -1,3 +1,3 @@
 # web-technologies
 
-Access this website through this link   https://harishsivakumarj.github.io/web-technologies/
+Access this website through this link   https://harishsivakumarjs.github.io/web-technologies/
